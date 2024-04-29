@@ -78,6 +78,6 @@ footer_html = """
     font-size: 18px; /* Adjust the font size */
 }
 </style>
-<div class="footer">Made by Vipul Malyan</div>
+<div class="footer">Made by Stuti Sangal & Shruti Singh</div>
 """
 st.markdown(footer_html, unsafe_allow_html=True)
